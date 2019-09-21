@@ -1,13 +1,13 @@
-# Resume
----
+# **Resume**
+
 ## First, Last name:
----
-* Valiantsin Horbach
+Valiantsin Horbach
+
 ---
 ## Contact Info:
 ---
-* [VK](https://vk.com/id154124896)
-* [GitHub](https://github.com/Pakertak)
+* [*VK*](https://vk.com/id154124896)
+* [*GitHub*](https://github.com/Pakertak)
 ---
 ## Summary:
 ---
@@ -23,9 +23,9 @@
 * Git novice
 ---
 ## Education:
-* a third-year student of [BSUIR](https://www.bsuir.by/)
-* [Codeacademy](https://www.codecademy.com)
-* [Codewars](https://www.codewars.com)
+* *[Belarussian State University of Informatics and Radioelectronics](https://www.bsuir.by/) (2017-2022)*
+* *[Codeacademy](https://www.codecademy.com)*
+* *[Codewars](https://www.codewars.com)*
 ---
 ## English:
 * English level: Pre-Intermediate +
