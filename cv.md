@@ -1,5 +1,5 @@
 # Resume
-
+---
 ## First, Last name:
 ---
 * Valiantsin Horbach
@@ -9,13 +9,13 @@
 * [VK](https://vk.com/id154124896)
 * [GitHub](https://github.com/Pakertak)
 ---
-## Summary
+## Summary:
 ---
 * I want to be a JavaScript developer.
 * Like complex algorithms.
 * Hard-working and friendly.
 ---
-## Skills
+## Skills:
 ---
 * HTML,CSS
 * C\C++ novice
@@ -26,4 +26,7 @@
 * a third-year student of [BSUIR](https://www.bsuir.by/)
 * [Codeacademy](https://www.codecademy.com)
 * [Codewars](https://www.codewars.com)
-* 
+---
+## English:
+* English level: Pre-Intermediate +
+* [Lingoleo](https://lingualeo.com)
