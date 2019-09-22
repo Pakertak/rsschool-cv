@@ -15,7 +15,8 @@ body{
     margin: 0 auto;
     color:  white;
     background-size:  cover;
-	background:  url(background.jpg) no-repeat;
+    background:  url(background.jpg)  no-repeat;
+    background-position:  center;
 }
 
  main{
