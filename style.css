@@ -1,0 +1,88 @@
+*{
+    margin:  0;
+    padding:  0;
+    box-sizing:  border-box;
+    text-transform:  none;
+    text-decoration:  none;
+    list-style:  none;
+    font-family:  "Titillium Web",  "Arial",  san-serif;
+    text-align:  center;
+}
+
+body{
+    min-height:  700px;
+    width:  1024px;
+    margin: 0 auto;
+    color:  white;
+    background-size:  cover;
+	background:  url(background.jpg) no-repeat;
+}
+
+ main{
+    width:  900px;
+    margin:  0 auto;
+    padding-bottom:  40px;
+    border:  2px  white  solid;
+
+}
+
+.my-name{
+	padding-bottom:  50px;
+	margin-left:  120px;
+	margin-top:  100px;
+}
+
+h1{
+    margin-bottom:  15px;
+    color:  white;
+    font-size:  40px; 
+    text-align: left;
+}
+
+
+.summary, 
+.skills{
+display:  inline-block;
+margin:  50px  50px  100px  50px;
+}
+
+
+a{
+    color:  white;
+}
+
+
+li{
+	list-style:  disc;
+	margin-bottom:  5px;
+	margin-right:  5px;
+}
+
+
+.contacts{
+	margin:  50px;
+}
+
+
+.contacts h5{
+    text-align:  left;
+}
+
+
+.contacts li{
+    text-align:  left; 
+}
+
+
+footer{
+    padding-top:  100px;
+	padding-bottom:  20px;
+	width:  980px;
+	border-top-style:  none;
+	font-size:  14px;
+}
+
+
+.git{
+    text-align:  left;
+}
